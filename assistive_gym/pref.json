@@ -1,0 +1,66 @@
+{
+        "1": {
+            "velocity_weight": 0.25,
+            "force_nontarget_weight": 0.01,
+            "high_forces_weight": 0.5,
+            "food_hit_weight": 10.00,
+            "food_velocities_weight": 10.00
+        },
+        "2": {
+            "velocity_weight": 0.25,
+            "force_nontarget_weight": 0.1,
+            "high_forces_weight": 5.0,
+            "food_hit_weight": 1.0,
+            "food_velocities_weight": 1.0
+        },
+        "3": {
+            "velocity_weight": 2.5,
+            "force_nontarget_weight": 0.01,
+            "high_forces_weight": 0.05,
+            "food_hit_weight": 1.0,
+            "food_velocities_weight": 1.0
+        },
+        "4": {
+            "velocity_weight": 0.0,
+            "force_nontarget_weight": 0.01,
+            "high_forces_weight": 0.05,
+            "food_hit_weight": 1.0,
+            "food_velocities_weight": 1.0
+        },
+        "5": {
+            "velocity_weight": 0.25,
+            "force_nontarget_weight": 0.01,
+            "high_forces_weight": 0.050,
+            "food_hit_weight": 1.0,
+            "food_velocities_weight": 1.0
+        },
+        "6": {
+            "velocity_weight": 2.5,
+            "force_nontarget_weight": 0.10,
+            "high_forces_weight": 0.5,
+            "food_hit_weight": 10.0,
+            "food_velocities_weight": 10.0
+        },
+        "7": {
+            "velocity_weight": 0.25,
+            "force_nontarget_weight": 0.01,
+            "high_forces_weight": 0.05,
+            "food_hit_weight": 10.0,
+            "food_velocities_weight": 1.0
+        },
+        "8": {
+            "velocity_weight": 0.025,
+            "force_nontarget_weight": 0.001,
+            "high_forces_weight": 0.005,
+            "food_hit_weight": 0.1,
+            "food_velocities_weight": 0.1
+        },
+        "10": {
+            "velocity_weight": 0.025,
+            "force_nontarget_weight": 0.1,
+            "high_forces_weight": 0.005,
+            "food_hit_weight": 10.0,
+            "food_velocities_weight": 0.1
+        }
+
+}
