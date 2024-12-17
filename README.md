@@ -80,7 +80,17 @@ This will perform evaluation without further training.
 
 If you find this work useful, please cite the following paper:
 
-**TBD**
+```
+@misc{qin2024learninghumanawarerobotpolicies,
+      title={Learning Human-Aware Robot Policies for Adaptive Assistance}, 
+      author={Jason Qin and Shikun Ban and Wentao Zhu and Yizhou Wang and Dimitris Samaras},
+      year={2024},
+      eprint={2412.11913},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2412.11913}, 
+}
+```
 
 ## Acknowledgements
 
