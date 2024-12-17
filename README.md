@@ -1,8 +1,8 @@
 # Learning Human-aware Robot Policies for Adaptive Assistance
 
 <p align="center">
-  <a href="arxiv_link" target="_blank">
-    <img src="arxiv_label_link" alt="arXiv Paper"></a>
+  <a href="https://arxiv.org/abs/2412.11913" target="_blank">
+    <img src="https://img.shields.io/badge/arXiv-2412.11913-b31b1b.svg?style=for-the-badge" alt="arXiv Paper"></a>
   <a href="https://asonin.github.io/Human-Aware-Assistance/" target="_blank">
     <img src="https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=Google%20chrome&logoColor=white" alt="Project Page"></a>
   <a href="https://youtu.be/yNTk-Wt6feA" target="_blank">
